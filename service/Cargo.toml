@@ -1,0 +1,8 @@
+[package]
+name = "actions-deployments"
+version = "0.1.0"
+authors = ["Ryan James Spencer <spencer.ryanjames@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.2"
